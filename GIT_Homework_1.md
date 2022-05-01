@@ -3,7 +3,7 @@
  |Шаги|JSON|XML|TXT|
  |:--|:--|:--|:--|
  |4. Создать внешний репозиторий c названием... |github.com/new  <br/> -> Repository name JSON (Add readme.md)<br/> ->  Create repository|github.com/new  <br/> -> Repository name XML (Add readme.md)<br/> ->  Create repository|github.com/new  <br/> -> Repository name TXT (Add readme.md)<br/> ->  Create repository|
- |5. Клонировать репозиторий на локальный компьютер|git clone [link](https://github.com/OlgaVyunik/JSON.git) |git clone https://github.com/OlgaVyunik/XML.git|git clone https://github.com/OlgaVyunik/TXT.git|
+ |5. Клонировать репозиторий на локальный компьютер|git clone [link](https://github.com/OlgaVyunik/JSON.git) |git clone [link](https://github.com/OlgaVyunik/XML.git)|git clone [link](https://github.com/OlgaVyunik/TXT.git)|
  |6. Внутри локальной директории создать файл | cd JSON <br/>  touch new.json |cd XML <br/>  touch new.xml|cd TXT <br/>  touch new.txt|
  |7. Добавить файл под гит | git add new.json |git add new.xml|git add new.txt|
  |8. Закоммитить файл |git commit -m "new"|git commit -m "new"|git commit -m "new"|

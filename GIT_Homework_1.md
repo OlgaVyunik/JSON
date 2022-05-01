@@ -4,7 +4,7 @@
  |:--|:--|:--|:--|
  |4. Создать внешний репозиторий c названием... |github.com/new - Repository name JSON (Add readme.md) - Create repository|||
  |5. Клонировать репозиторий на локальный компьютер|git clone https://github.com/OlgaVyunik/JSON.git |||
- |6. Внутри локального JSON создать файл | cd JSON   touch new.json |||
+ |6. Внутри локального JSON создать файл | cd JSON <br/>  touch new.json |||
  |7. Добавить файл под гит | git add new.json |||
  |8. Закоммитить файл |git commit -m "new"|||
  |9. Отправить файл на внешний GitHub репозиторий |git push|git push|git push|

@@ -1,3 +1,13 @@
 {
-  "bugReport":"New Bug Report"
+  "bugReport":{
+    "id" : "New Bug Report",
+    "component": "HOME",
+    "issueType":"Content",
+    "title":"No content below block 'Style With'",
+    "stepsToReproduce":{
+      "step":"Open home page, see block 'Style With', there is no content below it"
+    },
+    "expectedResult":"Content according to the requirements",
+    "actualResult":"No content"
+  }
 }
